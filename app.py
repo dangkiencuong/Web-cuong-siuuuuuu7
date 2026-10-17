@@ -62,8 +62,8 @@ st.title("💖 Chúc Mừng Ngày Phụ Nữ Việt Nam 20/10 💐")
 st.markdown("""
 ### Gửi tới những người phụ nữ tuyệt vời nhất! ✨
 
-Nhân ngày **20/10**, xin gửi những lời chúc tốt đẹp nhất đến hành tinh chữ "S" này . 
-Chúc mọi người luôn luôn xinh đẹp, rạng rỡ, tràn ngập niềm vui và luôn được yêu thương trọn vẹn trong cuộc sống! 🌸
+Nhân ngày **20/10**, xin gửi những lời chúc tốt đẹp nhất đến hành tinh chữ S . 
+Chúc chị em phụ nữ luôn luôn xinh đẹp, rạng rỡ, tràn ngập niềm vui và luôn được yêu thương trọn vẹn trong cuộc sống! 🌸
 
 ---
 """)
@@ -71,10 +71,11 @@ Chúc mọi người luôn luôn xinh đẹp, rạng rỡ, tràn ngập niềm v
 with st.container():
     st.info("""
     💌 **Lời chúc ý nghĩa:**  
-    *"Mong rằng mỗi ngày trôi qua đều mang đến cho chi em phụ nữ thật nhiều nụ cười, may mắn và hạnh phúc. mọi người xứng đáng nhận được những điều tuyệt vời nhất!"*
+    *"Mong rằng mỗi ngày trôi qua đều mang đến cho chi em phụ nữ thật nhiều nụ cười, may mắn và hạnh phúc. mọi người
+xứng đáng nhận được những điều tuyệt vời nhất!"*
     """)
 
 if st.button("🎁 Bấm vào đây để nhận món quà bất ngờ!"):
     st.balloons()
-    st.success("🎉 Chúc chị em phụ nữ có một ngày 20/10 ngập tràn hoa, quà và những lời chúc ý nghĩa. Quan trọng nhất là có một bờ vai che trở cho bản thân và tương lai !")
-  
+    st.success("🎉 Chúc chị em phụ nữ có một ngày 20/10 ngập tràn hoa, quà và lời hay ý đẹp. Quan trọng nhất là có một bờ vai che trở cho tâm hồn dễ thương !")
+    
